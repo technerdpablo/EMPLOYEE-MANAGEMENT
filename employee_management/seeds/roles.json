@@ -1,0 +1,17 @@
+[
+       {
+        "title": "Chef",
+        "salary": 10000,
+        "department_id": 2
+    },
+    {
+        "title": "finance Manager",
+        "salary": 50000,
+        "department_id": 2
+    },
+    {
+        "title": "HR ",
+        "salary": 25000,
+        "department_id": 3
+    }
+]
